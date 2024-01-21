@@ -1,2 +1,1 @@
-# CPSC-200
-Algorithm Analysis and Development
+# Algorithm Analysis and Development
